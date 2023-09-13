@@ -1,0 +1,44 @@
+/* .parent {
+    width: 300px;
+    height: 100px;
+    background-color: orange;
+
+}
+.child {
+    width: 300px;
+    height: 100px;
+    background-color: green;
+} */
+
+/* .container{
+    background-color: skyblue;
+    width: 300px;
+    height: 100px;
+}
+.mab1{
+    background-color: lightgreen;
+    width: 290px;
+    height: 90px;
+}
+.mab2{
+    background-color: tomato;
+    width: 280px;
+    height: 88px;
+} */
+
+.body{
+    background: linear-gradient(lightgreen, skyblue);
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+
+}
+button{
+    cursor: pointer;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: skyblue;
+    color: white;
+}
