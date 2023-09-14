@@ -40,5 +40,5 @@ button{
 }
 button:hover{
     background-color: skyblue;
-    color: white;
+    color: rgb(205, 98, 98);
 }
